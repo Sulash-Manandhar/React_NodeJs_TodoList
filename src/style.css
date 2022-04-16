@@ -1,0 +1,56 @@
+*{
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    font-weight: 500;
+    font-size: 17px;
+    border-radius: 5px; 
+}
+
+.addBtn{
+    color: #198754;
+    border: solid 1px #198754;
+    background-color: white;
+}
+
+.addBtn:hover{
+    background-color: #198754;
+    color: white;
+}
+
+.clearBtn{
+    color:#DC3545;
+    border: solid 1px #DC3545;
+    background-color: white;
+}
+
+
+.clearBtn:hover{
+    background-color: #DC3545;
+    color: white;
+}
+
+input[type=text]{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border:1px solid #212529;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 20px;
+    
+}
+
+
+label{
+    font-size: 18px;
+}
+
+label span{
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif
+}
